@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/V8/29UVJ0SL2SCOD6SWMK4AZC.uasset",
+				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VB/MJ4NARGB92UA9GEWOI4QOZ.uasset",
+				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/4Y/PVR5JW0S1YREGNKW868IQT.uasset",
+				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/LevelPrototyping/Meshes/SM_Cube_SM_Cube/SM_Cube17_GeometryCollection.uasset",
 				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/FirstPerson/Blueprints/Bomb_BP.uasset",
 				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",

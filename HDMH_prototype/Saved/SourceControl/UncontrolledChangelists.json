@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/anchor_score_BP.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/EX/2KTA7D6LN6Q5QC3SK8UA9F.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/8Y/CF5PADIFHGTZ0L5AN14K0W.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/5I/IZ604XD4BKXNE3M9UE29BO.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/UR/1Y6Y6JC9XJP2N0QCJTOUOU.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/Bomb_BP.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Meshes/SM_Cube_SM_Cube/SM_Cube_GeometryCollection_ground.uasset"
+			]
+		}
+	]
+}

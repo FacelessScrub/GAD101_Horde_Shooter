@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/HDMH_prototype/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/HDMH_prototype/Content/FirstPerson/Blueprints/Bomb_BP.uasset",
 				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/Scrubtop_IV/Documents/Unreal Projects/MyProject/Content/anchor_score_BP.uasset",

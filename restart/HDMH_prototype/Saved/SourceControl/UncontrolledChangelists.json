@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/FirstPerson/Blueprints/Bomb_BP.uasset",
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GF/ZMOOC4CJIDFA80CVVQCR2S.uasset",
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/lr104student12/Documents/Unreal Projects/HDMH_prototype/Content/LevelPrototyping/Meshes/SM_Cube_SM_Cube/SM_Cube4_GeometryCollection.uasset"
+			]
+		}
+	]
+}

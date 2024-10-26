@@ -3047,3 +3047,186 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.10.26-18.17.34:643][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 14.1 sec)
 [2024.10.26-18.17.34:644][212]AssetCheck: New page: Asset Save: room_parent
 [2024.10.26-18.17.34:644][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.19.41:017][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.26-18.19.41:031][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/E1/ZMZK7X88CZ1SPB6XMQ3LUE_Auto5
+[2024.10.26-18.19.41:032][712]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/ZMZK7X88CZ1SPB6XMQ3LUE_Auto5C40827FE4D65DBC3B3E98C8555D69B2F.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/E1/ZMZK7X88CZ1SPB6XMQ3LUE_Auto5.uasset'
+[2024.10.26-18.19.41:033][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.073
+[2024.10.26-18.19.41:033][712]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2024.10.26-18.19.41:033][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/Red] ([1] browsable assets)...
+[2024.10.26-18.19.41:033][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Red]
+[2024.10.26-18.19.41:034][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/Red_Auto5
+[2024.10.26-18.19.41:034][712]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Red_Auto5142B121B4CD24145165C10808DEC5E36.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Autosaves/Game/StarterContent/Materials/Red_Auto5.uasset'
+[2024.10.26-18.19.41:035][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPWeapon/Materials/black] ([1] browsable assets)...
+[2024.10.26-18.19.41:035][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Materials/black]
+[2024.10.26-18.19.41:036][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Materials/black_Auto5
+[2024.10.26-18.19.41:036][712]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/black_Auto573A5DA7844A57DDB9B9FC9B12A7B4C93.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Autosaves/Game/FPWeapon/Materials/black_Auto5.uasset'
+[2024.10.26-18.19.41:036][712]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.10.26-18.23.22:272][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.23.22:402][812]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.23.22:402][812]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent1EFD95FC4C47C4B1537C59AC6198710B.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.23.22:413][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 14.2 sec)
+[2024.10.26-18.23.22:416][812]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.23.22:416][812]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.23.22:722][831]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.23.22:889][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.26-18.23.37:074][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.23.37:179][616]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.23.37:180][616]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parentBBBF9059408FE6C2890925871CE865F7.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.23.37:192][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 14.3 sec)
+[2024.10.26-18.23.37:192][616]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.23.37:192][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.23.40:110][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.23.40:199][775]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.23.40:200][775]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent6E785C634DD3ACA85A466B992C16AF7A.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.23.40:212][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 14.4 sec)
+[2024.10.26-18.23.40:213][775]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.23.40:213][775]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.24.19:581][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.24.19:672][121]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSubobjectEditorDragDropTree [SSubobjectEditor.cpp(2093)].
+[2024.10.26-18.24.19:812][121]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.24.19:812][121]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent22BF3962486567F551FB84A54A6934BA.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.24.19:828][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 246 ms (total: 14.7 sec)
+[2024.10.26-18.24.19:829][121]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.24.19:829][121]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.24.45:810][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.24.45:890][609]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSubobjectEditorDragDropTree [SSubobjectEditor.cpp(2093)].
+[2024.10.26-18.24.46:049][609]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.24.46:049][609]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent6E1EE39C4F79D37AF35A099E9E908F24.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.24.46:063][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 252 ms (total: 14.9 sec)
+[2024.10.26-18.24.46:064][609]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.24.46:064][609]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.24.46:711][641]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.24.46:930][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.26-18.29.41:468][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.26-18.29.41:484][931]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/E1/ZMZK7X88CZ1SPB6XMQ3LUE_Auto6
+[2024.10.26-18.29.41:484][931]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/ZMZK7X88CZ1SPB6XMQ3LUE_Auto6B4A198C04C88E4AB9E2E998B92B199BE.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/E1/ZMZK7X88CZ1SPB6XMQ3LUE_Auto6.uasset'
+[2024.10.26-18.29.41:485][931]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.059
+[2024.10.26-18.29.41:485][931]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2024.10.26-18.30.03:628][233]Cmd: TRANSACTION UNDO
+[2024.10.26-18.30.03:628][233]LogEditorTransaction: Undo Duplicate Components
+[2024.10.26-18.30.34:532][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.30.34:642][902]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.30.34:643][902]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent08E7371D4A59AACD4B06C6B10F93D543.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.30.34:655][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 15.1 sec)
+[2024.10.26-18.30.34:659][902]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.30.34:659][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.31.22:534][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.31.22:625][536]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSubobjectEditorDragDropTree [SSubobjectEditor.cpp(2093)].
+[2024.10.26-18.31.22:809][536]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.31.22:809][536]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parentB8A3532D4A9D952838CF27B311B1AB40.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.31.22:821][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 287 ms (total: 15.4 sec)
+[2024.10.26-18.31.22:823][536]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.31.22:823][536]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.31.23:821][591]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.31.24:097][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.26-18.32.37:649][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.32.37:729][680]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSubobjectEditorDragDropTree [SSubobjectEditor.cpp(2093)].
+[2024.10.26-18.32.37:965][680]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.32.37:965][680]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parentE58D07EE43A871203ED3FC862B77777D.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.32.37:977][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 327 ms (total: 15.7 sec)
+[2024.10.26-18.32.37:979][680]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.32.37:979][680]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.32.38:505][704]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.32.38:755][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.26-18.33.01:130][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.33.01:202][811]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSubobjectEditorDragDropTree [SSubobjectEditor.cpp(2093)].
+[2024.10.26-18.33.01:432][811]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.33.01:432][811]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parentB18175DC45F7E4C4DB8DE8BC6EB2EFF9.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.33.01:446][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 315 ms (total: 16.0 sec)
+[2024.10.26-18.33.01:448][811]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.33.01:448][811]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.33.02:101][844]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.33.02:287][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.26-18.33.02:886][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.33.02:978][859]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.33.02:978][859]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parentE819EF8A4C85B73D7A9FE49B848BA47B.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.33.02:990][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 16.1 sec)
+[2024.10.26-18.33.02:991][859]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.33.02:991][859]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.34.13:577][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.34.13:679][592]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.34.13:679][592]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent73CDCD3F4EE3E0F20894508A8BC098E1.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.34.13:691][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 16.2 sec)
+[2024.10.26-18.34.13:693][592]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.34.13:693][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.34.32:739][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.34.33:014][556]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.34.33:016][556]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent306E5CA54CC8CF655401939E634CEAA9.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.34.33:027][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 16.5 sec)
+[2024.10.26-18.34.33:029][556]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.34.33:029][556]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.35.27:875][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.35.27:998][537]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.35.27:999][537]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent06443D5B4CB9667B1C1D978B34B87737.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.35.28:010][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 16.6 sec)
+[2024.10.26-18.35.28:012][537]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.35.28:012][537]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.35.52:452][980]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.35.52:452][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.36.07:482][431]LogSlate: Window 'Interact' being destroyed
+[2024.10.26-18.36.07:498][431]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.36.07:498][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.36.07:509][431]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.36.07:509][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.36.37:602][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.36.37:603][914]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.26-18.36.37:603][914]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.26-18.36.39:962][ 60]LogViewport: Scene viewport resized to 2053x973, mode Windowed.
+[2024.10.26-18.39.31:494][298]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.39.31:864][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.10.26-18.39.32:606][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.39.32:686][319]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.39.32:686][319]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parentD49D22D64F06E652E00BC2A81B581557.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.39.32:698][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 16.7 sec)
+[2024.10.26-18.39.32:699][319]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.39.32:699][319]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.40.05:555][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.26-18.40.05:575][136]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/E1/ZMZK7X88CZ1SPB6XMQ3LUE_Auto7
+[2024.10.26-18.40.05:575][136]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/ZMZK7X88CZ1SPB6XMQ3LUE_Auto7D49CE5BA4E543FEA60C826AA187DA07F.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/E1/ZMZK7X88CZ1SPB6XMQ3LUE_Auto7.uasset'
+[2024.10.26-18.40.05:577][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.056
+[2024.10.26-18.40.05:577][136]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2024.10.26-18.40.05:577][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/Red] ([1] browsable assets)...
+[2024.10.26-18.40.05:577][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Red]
+[2024.10.26-18.40.05:578][136]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/Red_Auto7
+[2024.10.26-18.40.05:578][136]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Red_Auto7A59036084471F011E08DF590D40F3CE8.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Autosaves/Game/StarterContent/Materials/Red_Auto7.uasset'
+[2024.10.26-18.40.05:579][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPWeapon/Materials/black] ([1] browsable assets)...
+[2024.10.26-18.40.05:579][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Materials/black]
+[2024.10.26-18.40.05:580][136]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Materials/black_Auto7
+[2024.10.26-18.40.05:580][136]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/black_Auto73AF4ED93479064B039F135B4C306E863.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/Autosaves/Game/FPWeapon/Materials/black_Auto7.uasset'
+[2024.10.26-18.40.05:581][136]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.10.26-18.41.11:768][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.41.11:841][718]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSubobjectEditorDragDropTree [SSubobjectEditor.cpp(2093)].
+[2024.10.26-18.41.12:051][718]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.41.12:051][718]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent50AC5E2A4AC13D7BA52431B76F848D0D.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.41.12:066][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 297 ms (total: 17.0 sec)
+[2024.10.26-18.41.12:090][718]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.41.12:090][718]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.41.26:772][530]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.41.26:968][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.26-18.41.28:574][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.41.28:673][601]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.41.28:673][601]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent64E4ECC94E298C2C6AEBFDBD09B145BC.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.41.28:684][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 17.1 sec)
+[2024.10.26-18.41.28:687][601]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.41.28:687][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.41.44:074][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.41.44:199][240]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.41.44:199][240]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parentABA064E549F6400BFAAFA497CF952C2A.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.41.44:210][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 17.3 sec)
+[2024.10.26-18.41.44:212][240]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.41.44:212][240]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.42.09:411][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.42.09:481][583]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSubobjectEditorDragDropTree [SSubobjectEditor.cpp(2093)].
+[2024.10.26-18.42.09:678][583]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.42.09:680][583]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent2A9A8D204A456C298CB8D9BD4E163F3D.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.42.09:693][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 17.6 sec)
+[2024.10.26-18.42.09:694][583]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.42.09:694][583]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent
+[2024.10.26-18.42.10:778][638]BlueprintLog: New page: Compile room_parent
+[2024.10.26-18.42.10:999][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.26-18.42.22:707][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-18.42.22:852][267]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/room_parent
+[2024.10.26-18.42.22:852][267]LogSavePackage: Moving '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Saved/room_parent770784EB4710A67F53656582122D4A3A.tmp' to '../../../../../../Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset'
+[2024.10.26-18.42.22:863][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 17.7 sec)
+[2024.10.26-18.42.22:864][267]AssetCheck: New page: Asset Save: room_parent
+[2024.10.26-18.42.22:864][267]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/room_parent.room_parent

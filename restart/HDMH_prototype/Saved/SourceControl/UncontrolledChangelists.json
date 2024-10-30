@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Scrubtop_IV/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Scrubtop_IV/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/IA_Interact.uasset",
+				"C:/Users/Scrubtop_IV/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/NewInputMappingContext_Interact.uasset",
+				"C:/Users/Scrubtop_IV/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Scrubtop_IV/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Blueprints/room_parent.uasset",
+				"C:/Users/Scrubtop_IV/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
 				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VB/MJ4NARGB92UA9GEWOI4QOZ.uasset",
 				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/4Y/PVR5JW0S1YREGNKW868IQT.uasset",
 				"C:/Users/lr104student12/Documents/GitHub/GAD101_Horde_Shooter/restart/HDMH_prototype/Content/LevelPrototyping/Meshes/SM_Cube_SM_Cube/SM_Cube17_GeometryCollection.uasset",

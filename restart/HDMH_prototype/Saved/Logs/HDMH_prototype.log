@@ -3497,3 +3497,4 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.11.02-20.33.50:074][155]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
 [2024.11.02-20.33.50:330][155]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.11.02-20.33.50:356][155]LogExit: Exiting.
+[2024.11.02-20.33.56:641][155]Log file closed, 11/02/24 13:33:56
